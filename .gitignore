@@ -1,0 +1,15 @@
+# Veri setleri
+dataset/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# FiftyOne
+fiftyone/
