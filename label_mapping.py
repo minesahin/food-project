@@ -1,7 +1,7 @@
 # label_mapping.py
-# Proje klasörüne bu dosyayı oluştur
 
-# Open Images adı → Senin etiket adın
+
+# Open Images adı → etiket adı
 OPENIMAGES_TO_MINE = {
     # MEYVELER
     "Apple":          "elma",
@@ -52,7 +52,7 @@ OPENIMAGES_TO_MINE = {
     "Hot dog":        "hot_dog",
     "Taco":           "taco",
     "Sushi":          "sushi",
-    "Pretzel":        "simit",   # yakın karşılık
+    "Pretzel":        "simit",
 
     # TATLI / EKMEK
     "Bread":          "ekmek",
@@ -60,7 +60,7 @@ OPENIMAGES_TO_MINE = {
     "Cookie":         "kurabiye",
     "Muffin":         "muffin",
     "Waffle":         "waffle",
-    "Pancake":        "gözleme",  # yakın karşılık
+    "Pancake":        "gözleme",
     "Ice cream":      "dondurma",
     "Chocolate":      "çikolata",
 
@@ -72,7 +72,7 @@ OPENIMAGES_TO_MINE = {
     "Beer":           "bira",
 }
 
-# Sadece Open Images adlarının listesi (download için)
+
 OPENIMAGES_CLASSES = list(OPENIMAGES_TO_MINE.keys())
 
 print(f"Toplam {len(OPENIMAGES_CLASSES)} kategori Open Images'tan indirilecek")
