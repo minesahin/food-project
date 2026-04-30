@@ -1,0 +1,90 @@
+path: /content/mini_final
+
+train: images/train
+val:   images/val
+
+nc: 82
+
+names:
+  0: adana_kebap
+  1: avokado
+  2: ayran
+  3: baklava
+  4: bamya
+  5: barbunya
+  6: beyaz_pilav
+  7: bezelye
+  8: biber
+  9: borek_genel
+  10: bulgur_pilavi
+  11: cacik
+  12: cay
+  13: cig_kofte
+  14: cilek
+  15: coban_salatasi
+  16: dolma
+  17: domates
+  18: domates_corbasi
+  19: doner
+  20: ekmek
+  21: elma
+  22: erik
+  23: et_sote
+  24: gozleme
+  25: hamsi
+  26: humus
+  27: hunkar_begendi
+  28: incir
+  29: iskender
+  30: ispanak
+  31: karnabahar
+  32: karniyarik
+  33: kavun
+  34: kayisi
+  35: kazandibi
+  36: kisir
+  37: kivi
+  38: kofte
+  39: kuru_fasulye
+  40: lahmacun
+  41: levrek_cipura
+  42: limon
+  43: lokma
+  44: makarna
+  45: manti
+  46: marul
+  47: menemen
+  48: mercimek
+  49: mercimek_corbasi
+  50: midye_tava
+  51: muz
+  52: nar
+  53: nohut
+  54: omlet
+  55: patates
+  56: patates_kizartma
+  57: patlican
+  58: pide_dolgulu
+  59: pirasa
+  60: salatalik
+  61: salep
+  62: sandvic
+  63: sarma
+  64: sehriye_corbasi
+  65: simit
+  66: su_boregi
+  67: sutlac
+  68: tantuni
+  69: tarhana_corbasi
+  70: tas_kebabi
+  71: tavuk_sote
+  72: tulumba_tatlisi
+  73: turk_kahvesi
+  74: tursu
+  75: visne_kiraz
+  76: yaban_mersini
+  77: yayla_corbasi
+  78: yogurt
+  79: yumurta
+  80: zeytin
+  81: zeytinyagli_fasulye
