@@ -1,8 +1,8 @@
 import os, shutil, random
 from pathlib import Path
 
-SOURCE = "C:/dataset/labeled_v1"
-OUTPUT = "C:/Users/sahim/PycharmProjects/pythonProject/food_project/dataset/mini_split"
+SOURCE = "./dataset/merged"
+OUTPUT = "./dataset/final_split"
 
 random.seed(42)
 images = sorted(Path(SOURCE + "/images").glob("*.jpg"))

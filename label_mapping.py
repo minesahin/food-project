@@ -1,7 +1,4 @@
-# label_mapping.py
 
-
-# Open Images adı → etiket adı
 OPENIMAGES_TO_MINE = {
     # MEYVELER
     "Apple":          "elma",
@@ -18,7 +15,7 @@ OPENIMAGES_TO_MINE = {
     "Pear":           "armut",
     "Coconut":        "hindistan_cevizi",
 
-    # SEBZELER
+
     "Tomato":         "domates",
     "Carrot":         "havuç",
     "Cucumber":       "salatalık",

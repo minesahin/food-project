@@ -1,7 +1,12 @@
+import json
+import itsdangerous
+itsdangerous.json = json
+
 from label_studio_ml.model import LabelStudioMLBase
 from ultralytics import YOLO
 import numpy as np
 import os
+
 
 
 class YOLOBackend(LabelStudioMLBase):

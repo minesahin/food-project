@@ -1,0 +1,77 @@
+path: /content/final_merged
+train: images/train
+val:   images/val
+nc: 71
+
+names:
+  0:  adana_kebap
+  1:  ananas
+  2:  armut
+  3:  avokado
+  4:  ayran
+  5:  baklava
+  6:  barbunya
+  7:  beyaz_peynir
+  8:  beyaz_pilav
+  9:  biber
+  10: brokoli
+  11: bulgur_pilavi
+  12: cacik
+  13: cay
+  14: cig_kofte
+  15: cilek
+  16: coban_salatasi
+  17: dolma
+  18: domates
+  19: dondurma
+  20: doner
+  21: ekmek
+  22: elma
+  23: et_sote
+  24: hamburger
+  25: hamsi
+  26: havuc
+  27: hindi
+  28: hot_dog
+  29: ispanak
+  30: istakoz
+  31: kabak
+  32: karides
+  33: karniyarik
+  34: karpuz
+  35: kisir
+  36: kofte
+  37: kurabiye
+  38: kuru_fasulye
+  39: lahana
+  40: lahmacun
+  41: limon
+  42: makarna
+  43: mango
+  44: mantar
+  45: menemen
+  46: mercimek
+  47: mercimek_corbasi
+  48: muz
+  49: nohut
+  50: pasta_kek
+  51: patlican
+  52: patates
+  53: pizza
+  54: pogaca
+  55: portakal
+  56: salatalik
+  57: sandvic
+  58: sarma
+  59: seftali
+  60: simit
+  61: su_boregi
+  62: sutlac
+  63: tavuk
+  64: tulumba_tatlisi
+  65: turk_kahvesi
+  66: uzum
+  67: waffle
+  68: yogurt
+  69: yumurta
+  70: zeytin

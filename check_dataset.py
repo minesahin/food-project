@@ -41,7 +41,7 @@ MY_FINAL_LABELS = [
 
 
 MANUAL_MAP = {
-    # Kaggle klasör adı  →  benim etiket adım
+
     "adana-kebap":              "adana_kebap",
     "anne-koftesi":             "kofte",
     "armut":                    "armut",
@@ -51,16 +51,16 @@ MANUAL_MAP = {
     "beyaz-lahana-sarmasi":     "sarma",
     "biber-dolma":              "dolma",
     "brokoli":                  "brokoli",
-    "bruksel-lahanasi":         None,        # listede yok
+    "bruksel-lahanasi":         None,
     "bulgur-pilavi":            "bulgur_pilavi",
     "cacik":                    "cacik",
-    "canak-enginar":            None,        # enginar listede yok
+    "canak-enginar":            None,
     "cay":                      "cay",
     "cig-kofte":                "cig_kofte",
     "cilek":                    "cilek",
     "cipura":                   "levrek_cipura",
     "coban-salatasi":           "coban_salatasi",
-    "domates":                  "domates",       # ← düzeltildi
+    "domates":                  "domates",
     "domates-corbasi":          "domates_corbasi",
     "dondurma":                 "dondurma",
     "doner":                    "doner",
@@ -77,35 +77,35 @@ MANUAL_MAP = {
     "iskender":                 "iskender",
     "ispanak-yemegi":           "ispanak",
     "kabak-mucver":             "kabak",
-    "kalburabasti":             None,        # listede yok
+    "kalburabasti":             None,
     "karnabahar":               "karnabahar",
     "karniyarik":               "karniyarik",
     "karpuz":                   "karpuz",
     "kavun":                    "kavun",
     "kayisi":                   "kayisi",
     "kazandibi":                "kazandibi",
-    "kemal-pasa-tatlisi":       None,        # listede yok
+    "kemal-pasa-tatlisi":       None,
     "kiraz":                    "visne_kiraz",
     "kisir":                    "kisir",
     "kivi":                     "kivi",
     "kiymali-borek":            "borek_genel",
     "kiymali-pide":             "pide_dolgulu",
-    "kokorec":                  None,        # listede yok
+    "kokorec":                  None,
     "lahmacun":                 "lahmacun",
     "levrek":                   "levrek_cipura",
     "lokma":                    "lokma",
-    "mango":                    None,        # listede yok
+    "mango":                    None,
     "manti":                    "manti",
     "menemen":                  "menemen",
     "mercimek-corbasi":         "mercimek_corbasi",
     "mercimek-koftesi":         "kofte",
     "midye-dolma":              "dolma",
     "midye-tava":               "midye_tava",
-    "mumbar-dolmasi":           None,        # listede yok
+    "mumbar-dolmasi":           None,
     "muz":                      "muz",
     "nar":                      "nar",
     "omlet":                    "omlet",
-    "patates-kizartmasi":       "patates_kizartma",  # ← düzeltildi
+    "patates-kizartmasi":       "patates_kizartma",
     "patates-puresi":           "patates",
     "patates-salatasi":         "patates",
     "patlican-kebabi":          "patlican",
@@ -113,30 +113,30 @@ MANUAL_MAP = {
     "pilav":                    "beyaz_pilav",
     "pirasa":                   "pirasa",
     "portakal":                 "portakal",
-    "sahlep":                   "salep",             # ← sahlep = salep
+    "sahlep":                   "salep",
     "salatalik":                "salatalik",
     "salcali-makarna":          "makarna",
     "sandvic":                  "sandvic",
-    "seftali":                  None,        # şeftali listede yok — eklenebilir
+    "seftali":                  None,
     "sehriye-corbasi":          "sehriye_corbasi",
     "siyah-zeytin":             "zeytin",
     "su-boregi":                "su_boregi",
     "sucuklu-yumurta":          "yumurta",
-    "sulu-bamya-yemegi":        "bamya",             # ← düzeltildi
+    "sulu-bamya-yemegi":        "bamya",
     "sulu-barbunya-yemegi":     "barbunya",
     "sulu-bezelye-yemegi":      "bezelye",
     "sulu-kuru-fasulye-yemegi": "kuru_fasulye",
     "sulu-mercimek-yemegi":     "mercimek",
     "sulu-nohut-yemegi":        "nohut",
     "sulu-patates-yemegi":      "patates",
-    "sutlac":                   "sutlac",            # ← düzeltildi
+    "sutlac":                   "sutlac",
     "tantuni":                  "tantuni",
     "tarhana-corbasi":          "tarhana_corbasi",
     "tas-kebabi":               "tas_kebabi",
     "tavuk-sote":               "tavuk_sote",
     "tulumba-tatlisi":          "tulumba_tatlisi",
     "turk-kahvesi":             "turk_kahvesi",
-    "tursu":                    None,        # tursu listede yok — eklenebilir
+    "tursu":                    None,
     "uzum":                     "uzum",
     "yaprak-sarma":             "sarma",
     "yayla-corbasi":            "yayla_corbasi",

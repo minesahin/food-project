@@ -1,0 +1,189 @@
+{
+  "baklava": {
+    "kalori": 429,
+    "karbonhidrat": 49,
+    "protein": 6,
+    "yag": 24,
+    "sodyum": 180,
+    "potasyum": 120,
+    "fosfor": 80,
+    "seker": 28,
+    "kaynak": "turkomp"
+  },
+  "lahmacun": {
+    "kalori": 224,
+    "karbonhidrat": 30,
+    "protein": 11,
+    "yag": 7,
+    "sodyum": 420,
+    "potasyum": 210,
+    "fosfor": 110,
+    "seker": 2,
+    "kaynak": "turkomp"
+  },
+  "mercimek_corbasi": {
+    "kalori": 98,
+    "karbonhidrat": 14,
+    "protein": 6,
+    "yag": 2,
+    "sodyum": 380,
+    "potasyum": 280,
+    "fosfor": 120,
+    "seker": 1,
+    "kaynak": "turkomp"
+  },
+  "adana_kebap": {
+    "kalori": 285,
+    "karbonhidrat": 2,
+    "protein": 22,
+    "yag": 21,
+    "sodyum": 520,
+    "potasyum": 310,
+    "fosfor": 190,
+    "seker": 0,
+    "kaynak": "turkomp"
+  },
+  "ayran": {
+    "kalori": 45,
+    "karbonhidrat": 3,
+    "protein": 3,
+    "yag": 2,
+    "sodyum": 80,
+    "potasyum": 141,
+    "fosfor": 90,
+    "seker": 3,
+    "kaynak": "turkomp"
+  },
+  "sutlac": {
+    "kalori": 132,
+    "karbonhidrat": 22,
+    "protein": 4,
+    "yag": 3,
+    "sodyum": 65,
+    "potasyum": 160,
+    "fosfor": 110,
+    "seker": 14,
+    "kaynak": "turkomp"
+  },
+  "doner": {
+    "kalori": 320,
+    "karbonhidrat": 3,
+    "protein": 25,
+    "yag": 23,
+    "sodyum": 610,
+    "potasyum": 290,
+    "fosfor": 200,
+    "seker": 0,
+    "kaynak": "turkomp"
+  },
+  "su_boregi": {
+    "kalori": 312,
+    "karbonhidrat": 28,
+    "protein": 12,
+    "yag": 17,
+    "sodyum": 480,
+    "potasyum": 95,
+    "fosfor": 140,
+    "seker": 1,
+    "kaynak": "turkomp"
+  },
+  "menemen": {
+    "kalori": 145,
+    "karbonhidrat": 8,
+    "protein": 7,
+    "yag": 10,
+    "sodyum": 390,
+    "potasyum": 420,
+    "fosfor": 130,
+    "seker": 5,
+    "kaynak": "turkomp"
+  },
+  "karniyarik": {
+    "kalori": 198,
+    "karbonhidrat": 12,
+    "protein": 10,
+    "yag": 13,
+    "sodyum": 340,
+    "potasyum": 380,
+    "fosfor": 140,
+    "seker": 6,
+    "kaynak": "turkomp"
+  },
+  "et_sote": {
+    "kalori": 245,
+    "karbonhidrat": 3,
+    "protein": 20,
+    "yag": 17,
+    "sodyum": 480,
+    "potasyum": 320,
+    "fosfor": 185,
+    "seker": 1,
+    "kaynak": "turkomp"
+},
+"sarma": {
+    "kalori": 165,
+    "karbonhidrat": 18,
+    "protein": 7,
+    "yag": 8,
+    "sodyum": 310,
+    "potasyum": 220,
+    "fosfor": 95,
+    "seker": 1,
+    "kaynak": "turkomp"
+},
+"zeytin": {
+    "kalori": 145,
+    "karbonhidrat": 4,
+    "protein": 1,
+    "yag": 15,
+    "sodyum": 735,
+    "potasyum": 91,
+    "fosfor": 11,
+    "seker": 0,
+    "kaynak": "turkomp"
+},
+"dolma": {
+    "kalori": 158,
+    "karbonhidrat": 17,
+    "protein": 6,
+    "yag": 8,
+    "sodyum": 290,
+    "potasyum": 210,
+    "fosfor": 88,
+    "seker": 1,
+    "kaynak": "turkomp"
+},
+"biber": {
+    "kalori": 31,
+    "karbonhidrat": 6,
+    "protein": 1,
+    "yag": 0.3,
+    "sodyum": 4,
+    "potasyum": 211,
+    "fosfor": 26,
+    "seker": 4,
+    "kaynak": "turkomp"
+},
+"cacik": {
+    "kalori": 58,
+    "karbonhidrat": 4,
+    "protein": 3,
+    "yag": 3,
+    "sodyum": 95,
+    "potasyum": 145,
+    "fosfor": 75,
+    "seker": 3,
+    "kaynak": "turkomp"
+},
+"coban_salatasi": {
+    "kalori": 45,
+    "karbonhidrat": 6,
+    "protein": 2,
+    "yag": 2,
+    "sodyum": 120,
+    "potasyum": 280,
+    "fosfor": 45,
+    "seker": 4,
+    "kaynak": "turkomp"
+}
+}
