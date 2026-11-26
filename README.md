@@ -262,20 +262,6 @@ Diğer uç noktalar: `GET /health`, `GET /diseases`
 
 Bu sistem bir **karar destek aracıdır**; tıbbi beslenme tedavisi yerine geçmez. Kişisel beslenme planı için bir diyetisyene veya hekime danışılmalıdır.
 
----
 
-## Gelecek Çalışmalar
 
-- Flutter ile mobil uygulama
-- Porsiyon tahmini (derinlik / referans nesne ile)
-- Kategori sayısının ve etiketli verinin artırılması
-- Kullanıcı profili ve analiz geçmişi
-- Bulut üzerinde yayınlama
 
----
-
-## Geliştirici
-
-**Mine Şahin**, Pamukkale Üniversitesi, Bilgisayar Mühendisliği
-Danışman: Dr. Öğr. Üyesi Alperen Eroğlu
-Bilgisayar Mühendisliği Uygulama Tasarımı Dersi, 2025–2026
